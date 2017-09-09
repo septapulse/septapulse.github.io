@@ -1,0 +1,118 @@
+body {
+  margin: 4px; padding: 0px;
+  background-color: #373737;
+  color: #FFFFFF;
+  height:100%;
+  padding-left: 15%;
+  padding-right: 15%;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+
+header {
+    background-color:#373737;
+    text-align:left;
+    width:100%;
+}
+
+nav {
+  background-color:#585858;
+  float:left;
+  width: 20%;
+  height: auto;
+  margin-right: 4px;
+  text-align:left;
+  min-height: 90%;
+}
+
+main {
+  background-color:#585858;
+  min-width: 200px;
+  overflow: auto;
+  margin-left: 4px;
+  text-align:left;
+  padding: 8px;
+  min-height: 90%;
+}
+
+nav a:link {
+	color: #FFFFFF;
+  background-color: #484848;
+	text-decoration:none;
+  text-align:center;
+}
+nav a:visited {
+  color: #FFFFFF;
+  background-color: #484848;
+}
+nav a:hover {
+  color: #FFFFFF;
+  background-color: #FF5800;
+}
+nav a:active {
+  color: #FFFFFF;
+  background-color: #FF5800;
+}
+
+h1 {
+    color: #FF5800;
+}
+h2 {
+    color: #FF5800;
+}
+h3 {
+    color: #FFFFFF;
+}
+
+a:link {
+	color: #FFFFFF;
+  background-color: #585858;
+}
+
+a:visited {
+	color: #FFFFFF;
+  background-color: #585858;
+}
+
+a:hover {
+	color: #FFFFFF;
+  background-color: #FF5800;
+}
+
+a:active {
+	color: #FFFFFF;
+  background-color: #FF5800;
+}
+
+.hyperspan {
+    width:100%;
+}
+
+span {
+	display:inline-block;
+	vertical-align:middle
+}
+
+.light {
+  background-color: #585858;
+  color: #FFFFFF;
+}
+
+.medium {
+  background-color: #484848;
+  color: #FFFFFF;
+}
+
+.dark {
+  background-color: #373737;
+  color: #FFFFFF;
+}
+
+.spaced {
+	letter-spacing:4px;
+}
+
+.spacedWithColor {
+	letter-spacing:4px;
+	color: #FF5800;
+	background: #373737;
+}

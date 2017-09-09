@@ -1,8 +1,0 @@
-rook.core.io.service
-rook.core.io.service.dummy
-rook.core.io.service.raspberrypi
-rook.core.io.service.raspberrypi.gopigo
-rook.core.io.service.raspberrypi.gpio
-rook.core.io.service.raspberrypi.grovepi
-rook.core.io.service.raspberrypi.hc_sr04
-rook.core.io.service.raspberrypi.util
